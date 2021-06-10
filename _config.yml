@@ -15,9 +15,9 @@ author: Junjie Luo
 
 navbar-links:
   About Me: "aboutme"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://jjluo.com"
 
 # --- Logo --- #
@@ -40,10 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jjluo@umd.edu"
-  # facebook: deanattali
+  facebook: deanattali
   github: floydluo
-  # twitter: daattali
-  # patreon: DeanAttali
+  twitter: daattali
+  patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -60,7 +60,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
- ORCID: 0000-0002-0771-3519
+#  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
