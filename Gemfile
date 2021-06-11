@@ -1,6 +1,11 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+# source "https://rubygems.org"
 
-gemspec
+# gemspec
 
+
+source 'https://rubygems.org'
+
+gem 'github-pages', '106'
+gem 'jekyll-paginate'
